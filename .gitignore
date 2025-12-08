@@ -1,0 +1,11 @@
+*.log
+*.tmp
+__pycache__/
+.vscode/
+.idea/
+*.pyc
+AppData/
+Downloads/
+Desktop/
+Lectures/
+__MACOSX/
